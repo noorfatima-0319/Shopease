@@ -3,7 +3,8 @@
 A Flutter e-commerce app built for the Week 3 internship task at DawoodTech
 NextGen: **ShopEase - E-Commerce App with BLoC & Online Payments**.
 
-**GitHub Repository:** <add your repo link here>
+**Live Demo:**  https://noorfatima-0319.github.io/shopease/
+**GitHub Repository:** https://github.com/noorfatima-0319/Shopease
 **Release APK:** <add a link to your GitHub Release / Firebase App Distribution build here>
 
 ## Overview
@@ -105,7 +106,7 @@ customer count in this app is fabricated.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/noorfatima-0319/Shopease.git
    cd shopease
    ```
 2. Install dependencies:
@@ -126,16 +127,6 @@ The APK is produced at `build/app/outputs/flutter-apk/app-release.apk`.
 Upload it as a GitHub Release asset (or Firebase App Distribution) so it
 can be downloaded and installed directly.
 
-## Screenshots
-
-<!-- Add phone screenshots here, both light and dark mode, for example: -->
-<!-- | Home (Light) | Home (Dark) | Product Detail | Cart | Checkout | Orders | -->
-<!-- |---|---|---|---|---|---| -->
-<!-- | ![](screenshots/home_light.png) | ![](screenshots/home_dark.png) | ![](screenshots/detail.png) | ![](screenshots/cart.png) | ![](screenshots/checkout.png) | ![](screenshots/orders.png) | -->
-
-## Demo video
-
-<!-- Add a link to your 2-3 minute demo video here once recorded. -->
 
 ## What is intentionally out of scope for this build
 
@@ -143,9 +134,6 @@ can be downloaded and installed directly.
   above)
 - Coupon codes and shareable product deep links (listed as bonus features
   in the task)
-- A custom domain, favicon and "made with AI" removal are web-app/App
-  Store listing concerns, not applicable to this Flutter mobile codebase
-  in its current form
 
 ## Author
 
