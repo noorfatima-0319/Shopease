@@ -5,7 +5,6 @@ NextGen: **ShopEase - E-Commerce App with BLoC & Online Payments**.
 
 **Live Demo:**  https://noorfatima-0319.github.io/Shopease/
 **GitHub Repository:** https://github.com/noorfatima-0319/Shopease
-**Release APK:** <add a link to your GitHub Release / Firebase App Distribution build here>
 
 ## Overview
 
